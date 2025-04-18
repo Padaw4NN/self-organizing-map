@@ -6,3 +6,13 @@ Self-Organizing Maps (SOM), introduced by Teuvo Kohonen, are a type of unsupervi
 #### Dataset
 The dataset was obteined from Kaggle:
 https://www.kaggle.com/datasets/yasserh/avengers-faces-dataset
+
+#### Results
+
+<p align="center">
+    <img src="img/result-som.png", alt="results-SOM">
+</p>
+
+<p align="center">
+    <img src="img/confusion-matrix-SOM.png", alt="cm-SOM">
+</p>
